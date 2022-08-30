@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "scripts": {
     "install": "npm install",
-    "build": "react-scripts build",
+    "build": "react-scripts build && mv build docs",
     "start": "react-scripts start"
   },
   "dependencies": {

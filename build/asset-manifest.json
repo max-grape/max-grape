@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.622e3e05.css",
+    "main.js": "/static/js/main.8fc37107.js",
+    "static/media/15game.png": "/static/media/15game.79a83e4a342caec2bd75.png",
+    "static/media/keyboardgame.png": "/static/media/keyboardgame.b6f1a0e91f7cbe39facf.png",
+    "static/media/v8_72sD3DYMKyM0dn3LtWv_TTS9ENtVKaiibjCpIzfo.woff2": "/static/media/v8_72sD3DYMKyM0dn3LtWv_TTS9ENtVKaiibjCpIzfo.78032c40c08d7888929e.woff2",
+    "static/media/v8_72sD3DYMKyM0dn3LtWmYKogTrBb-Yb2DFwx30qLM.woff2": "/static/media/v8_72sD3DYMKyM0dn3LtWmYKogTrBb-Yb2DFwx30qLM.46ce28c57b7e94f0debd.woff2",
+    "static/media/v8_72sD3DYMKyM0dn3LtWpoN9YtdppI3iZaqWmzbQxo.woff2": "/static/media/v8_72sD3DYMKyM0dn3LtWpoN9YtdppI3iZaqWmzbQxo.2fb944201722d5b895a8.woff2",
+    "static/media/v8_72sD3DYMKyM0dn3LtWrvyoBhTDX6xHW8QOb1GM7Y.woff2": "/static/media/v8_72sD3DYMKyM0dn3LtWrvyoBhTDX6xHW8QOb1GM7Y.dececb4dba2f34b6b5a3.woff2",
+    "static/media/v8_72sD3DYMKyM0dn3LtWtNWGkeg1LyFsXzbZA1bkTQ.woff2": "/static/media/v8_72sD3DYMKyM0dn3LtWtNWGkeg1LyFsXzbZA1bkTQ.6d3a523c8127bfb93eb4.woff2",
+    "static/media/v8_72sD3DYMKyM0dn3LtWq3U1TLxoQk6-OAqjZFIaJc.woff2": "/static/media/v8_72sD3DYMKyM0dn3LtWq3U1TLxoQk6-OAqjZFIaJc.b7b433a0d046145a1510.woff2",
+    "index.html": "/index.html",
+    "main.622e3e05.css.map": "/static/css/main.622e3e05.css.map",
+    "main.8fc37107.js.map": "/static/js/main.8fc37107.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.622e3e05.css",
+    "static/js/main.8fc37107.js"
+  ]
+}

@@ -1,4 +1,4 @@
-@import "../../fonts/didact_gothic/style.css";
+@import "../../assets/fonts/didact_gothic/style.css";
 
 html {
     position: relative;
@@ -14,56 +14,42 @@ body {
     margin: 8px 8px 32px 8px;
 }
 
-a {
-    text-decoration: none;
-    color: #95d;
-    transition-duration: 0.25s;
-    transition-property: color;
-}
-
-a:hover {
-    color: #51d;
-}
-
 header {
     text-align: center;
 
-    div {
+    .logo {
+        width: 69px;
+        height: 73px;
         display: inline-block;
+        background-image: url('../../assets/img/logo.png');
     }
-}
-
-.logo {
-    width: 69px;
-    height: 73px;
-    background-image: url('../../img/logo.png');
 }
 
 .elements {
     font-size: 0px;
     text-align: center;
-}
 
-.element {
-    display: inline-block;
-    margin: 20px;
-    font-size: 14px;
-    width: 192px;
-    height: auto;
-    vertical-align: top;
-}
+    .element {
+        display: inline-block;
+        margin: 20px;
+        font-size: 14px;
+        width: 192px;
+        height: auto;
+        vertical-align: top;
 
-.image {
-    width: 192px;
-    height: 192px;
-}
+        .image {
+            width: 192px;
+            height: 192px;
+        }
 
-.keyboard {
-    background-image: url('../../img/keyboardgame.png');
-}
+        .keyboard {
+            background-image: url('../../assets/img/keyboardgame.png');
+        }
 
-.barleybreak {
-    background-image: url('../../img/15game.png');
+        .barleybreak {
+            background-image: url('../../assets/img/15game.png');
+        }
+    }
 }
 
 footer {

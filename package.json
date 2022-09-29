@@ -1,5 +1,6 @@
 {
-  "name": "max-grape.github.io",
+  "name": "max-grape",
+  "homepage": "https://max-grape.github.io/",
   "main": "index.js",
   "version": "1.0.0",
   "scripts": {

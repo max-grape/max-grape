@@ -4,7 +4,7 @@ clean:
 	@docker run -w /app -v `pwd`:/app $(IMAGE_NODE) rm -rf node_modules package-lock.json
 
 install:
-	@docker run --rm -w /app -v `pwd`:/app $(IMAGE_NODE) npm run install
+	@docker run --rm -w /app -v `pwd`:/app $(IMAGE_NODE) npm install
 
 start:
 	@docker run --rm -w /app -v `pwd`:/app -p 3000:3000 $(IMAGE_NODE) npm run start
